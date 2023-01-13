@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Carmen Sesin, Isabela Espadas Barros Leal",
+            "title": "Parallels between Brazil, U.S. politics made attack predictable to many",
+            "description": "Months of Bolsonaro’s Trump-like rigged election claims left Brazilians in the U.S. predicting a ‘response’ they saw culminated in Brazil's recent riot.",
+            "url": "https://www.nbcnews.com/news/latino/parallels-brazil-us-politics-made-attack-predictable-many-rcna64903",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-01/230109-brazil-national-congress-protest-al-0712-ea35ca.jpg",
+            "publishedAt": "2023-01-10T00:50:29Z",
+            "content": "MIAMI A day after supporters of former President Jair Bolsonaro stormed government buildings in Brazil, Vitor Spier, who lives in Orlando, Florida, condemned the violence in his home country. \r\nBut S… [+6809 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Video: Classified documents found at Biden private office. Hear what he said about Trump Mar-a-Lago documents | CNN Politics",
+            "description": "Several classified documents from President Joe Biden's time as vice president were discovered last fall in a private office, Biden's attorneys acknowledged. CNN's Evan Perez reports.",
+            "url": "http://us.cnn.com/videos/politics/2023/01/09/classified-documents-joe-biden-private-office-sot-tsr-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230109191433-biden-60-minutes-intv.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-10T00:16:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times https://www.washingtontimes.com",
+            "title": "Special Section: The Unregulated Podcast",
+            "description": "The Unregulated Podcast is hosted by Washington Times columnist, Mike McKenna and Tom Pyle, President of the American Energy Alliance. Each week they dig into the latest in energy, politics, and anything else that is on their minds.",
+            "url": "https://www.washingtontimes.com/specials/unregulated-podcast/",
+            "urlToImage": "https://media.washtimes.com/media/specials/thumbnails/UnregulatedThumbnail.jpg",
+            "publishedAt": "2023-01-09T22:07:30.2179995Z",
+            "content": "Listen here. For comments or feedback, email media@washingtontimes.com using the subject line \"The Unregulated Podcast.\"Recent Stories\r\nLast week, former President Donald Trump made it clear -- inten… [+1293 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Marie Le Conte",
+            "title": "No leaks, insider stories or catfights – what’s happened to politics?",
+            "description": "It is quite a remarkable change of pace after the sieve-like administrations of the past few years, writes Marie Le Conte",
+            "url": "http://www.independent.co.uk/voices/rishi-sunak-westminster-quiet-leaks-b2258715.html",
+            "urlToImage": "https://static.independent.co.uk/2023/01/09/14/HEALTH%20NHS%20%2008215628B.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-01-09T14:58:30Z",
+            "content": "At first I thought I was the problem. I still follow British politics closely, of course, but had perhaps been a bit slacker than usual since Rishi Sunak had taken over. His whole pitch had centred a… [+604 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times https://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2022-08-30T16:37:43.8583104Z",
+            "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+        },
+        {
+            "source": {
+                "id": "the-american-conservative",
+                "name": "The American Conservative"
+            },
+            "author": null,
+            "title": "Politics Archives - The American Conservative",
+            "description": null,
+            "url": "https://www.theamericanconservative.com/category/politics/",
+            "urlToImage": null,
+            "publishedAt": "2022-07-07T21:37:27.3936289Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "Daily Briefing",
+            "description": "The day's top stories, from sports to movies to politics to world events.",
+            "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+            "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+            "publishedAt": "2021-08-15T15:35:07+00:00",
+            "content": "The day's top stories, from sports to movies to politics to world events."
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        }
+    ]
+}
